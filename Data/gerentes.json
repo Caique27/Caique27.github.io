@@ -1,0 +1,9 @@
+{
+    "gerentes": [
+    {
+      "id": 1,
+      "login": "caique",
+      "_senha": "admin"
+    }
+  ]
+}

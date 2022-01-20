@@ -116,12 +116,6 @@
       "_transacoes": [],
       "id": 9
     }
-  ],
-  "gerentes": [
-    {
-      "id": 1,
-      "login": "caique",
-      "_senha": "admin"
-    }
   ]
+  
 }
